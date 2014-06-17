@@ -1,13 +1,13 @@
 Phylogenetic_Tree
 =================
 
-This contains the codes and instructions on how to create a phylogenetic tree for a domain.
+The codes and instructions on how to create a phylogenetic tree for domain analysis.
 
 Prequsite: 
 
-1. Download Hidden Markov Model from Pfam (or construct it by oneslef.)
+1. Download Hidden Markov Model from Pfam (or construct it by oneself.)
 
-2. Download the preotoem sequences of selected species from onlien databases (E.g. Ensembl, JGI, NCBI, etc.)
+2. Download the preotoem sequences of selected species from online databases (E.g. Ensembl, JGI, NCBI, etc.)
 
 3. Install required softwares, including Hmmer, clustalw, MEGA, PHYLIP, MrBayes, PAML, R, Perl, and Adobe Illustrator.
 
