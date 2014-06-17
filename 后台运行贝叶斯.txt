@@ -1,0 +1,1 @@
+ –Ï–°≈Ù  20:48:46nohup mb -i file.nex > output.txt &–Ï–°≈Ù  20:49:06exe File.nexsump burnin=5000sumt burnin=5000
